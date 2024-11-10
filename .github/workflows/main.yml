@@ -1,3 +1,6 @@
+name: WakaTime Stat Update Action
+uses: avinal/Profile-Readme-WakaTime@v4
+            
 on:
   push:
     branches: [master]
