@@ -20,7 +20,7 @@ jobs:
           
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
+          SECTION_NAME: code # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
@@ -30,4 +30,5 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
+         
           
