@@ -1,6 +1,9 @@
 ## Sunny as you know 🫨🫨👋
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:code-->
 
 ```rust
 From: 12 August 2024 - To: 18 November 2024
@@ -18,5 +21,5 @@ Git Config    2 mins          -------------------------   00.17 %
 C             2 mins          -------------------------   00.16 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:code-->
 
