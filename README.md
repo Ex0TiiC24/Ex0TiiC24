@@ -26,13 +26,13 @@
 <!--START_SECTION:code-->
 
 ```rust
-From: 12 August 2024 - To: 01 January 2025
+From: 12 August 2024 - To: 02 January 2025
 
-Total Time: 72 hrs 9 mins
+Total Time: 72 hrs 11 mins
 
-Python        47 hrs 40 mins  >>>>>>>>>>>>>>>>---------   65.72 %
-JavaScript    10 hrs 31 mins  >>>>---------------------   14.52 %
-TypeScript    5 hrs 32 mins   >>-----------------------   07.63 %
+Python        47 hrs 40 mins  >>>>>>>>>>>>>>>>---------   65.67 %
+JavaScript    10 hrs 34 mins  >>>>---------------------   14.57 %
+TypeScript    5 hrs 32 mins   >>-----------------------   07.62 %
 C++           4 hrs 39 mins   >>-----------------------   06.41 %
 HTML          1 hr 29 mins    >------------------------   02.06 %
 Bash          32 mins         -------------------------   00.74 %
