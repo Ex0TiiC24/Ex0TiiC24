@@ -1,8 +1,6 @@
 ## Sunny as you know 🫨🫨👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216.3%20thousand%20lines%20of%20code-blue)
@@ -11,8 +9,6 @@
 
 > 📦 12.5 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -20,7 +16,7 @@
 > 🔑 7 Private Repositories 
  > 
 
- Last Updated on 28/01/2025 01:41:12 UTC
+ Last Updated on 31/01/2025 01:41:46 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:code-->
