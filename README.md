@@ -26,20 +26,20 @@
 <!--START_SECTION:code-->
 
 ```rust
-From: 12 August 2024 - To: 31 January 2025
+From: 12 August 2024 - To: 06 February 2025
 
-Total Time: 134 hrs 56 mins
+Total Time: 163 hrs 33 mins
 
-Python           65 hrs 55 mins  >>>>>>>>>>>>-------------   48.71 %
-JavaScript       19 hrs 30 mins  >>>>---------------------   14.41 %
-Jupyter          7 hrs 22 mins   >------------------------   05.45 %
-Go               6 hrs 54 mins   >------------------------   05.11 %
-TypeScript       6 hrs 36 mins   >------------------------   04.88 %
-Svelte           6 hrs 26 mins   >------------------------   04.76 %
-HTML             5 hrs 37 mins   >------------------------   04.15 %
-C++              4 hrs 39 mins   >------------------------   03.44 %
-SQL              3 hrs 5 mins    >------------------------   02.29 %
-Bash             1 hr 58 mins    -------------------------   01.46 %
+Python                65 hrs 55 mins  >>>>>>>>>>---------------   40.20 %
+JavaScript            45 hrs 27 mins  >>>>>>>------------------   27.72 %
+Jupyter               7 hrs 22 mins   >------------------------   04.50 %
+Go                    6 hrs 54 mins   >------------------------   04.21 %
+TypeScript            6 hrs 36 mins   >------------------------   04.03 %
+Svelte                6 hrs 26 mins   >------------------------   03.93 %
+HTML                  5 hrs 37 mins   >------------------------   03.43 %
+C++                   4 hrs 39 mins   >------------------------   02.84 %
+SQL                   4 hrs 6 mins    >------------------------   02.50 %
+Bash                  2 hrs 33 mins   -------------------------   01.56 %
 ```
 
 <!--END_SECTION:code-->
