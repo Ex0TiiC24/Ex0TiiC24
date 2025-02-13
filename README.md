@@ -1,7 +1,7 @@
 ## Sunny as you know 🫨🫨👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -18,7 +18,7 @@
 > 🔑 7 Private Repositories 
  > 
 
- Last Updated on 10/02/2025 01:44:59 UTC
+ Last Updated on 13/02/2025 01:44:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:code-->
