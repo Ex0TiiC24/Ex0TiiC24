@@ -1,26 +1,26 @@
 ## Sunny :[
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-291.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.4 kB Used in GitHub's Storage 
+> 📦 32.2 kB Used in GitHub's Storage 
  > 
 > 🏆 299 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
 
- Last Updated on 07/07/2025 02:10:49 UTC
+ Last Updated on 10/07/2025 02:07:47 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:code-->
